@@ -1,5 +1,5 @@
 # Polygon-Triangulation
-Tutorial application for the study of Berg et.al. polygon triangulation algorithms
+Tutorial application for the study of Berg et al. polygon triangulation algorithms
 
 This application is a tutorial on the algorithms for rapid polygonal triangulation as described in the text, “Computational Geometry” (Berg, Kreveld, Overmars and Schwartzkopf) on pages 45-61. The first step requires implementation of a binary tree. The tree software in this application is an AVL self-balancing tree.
 
