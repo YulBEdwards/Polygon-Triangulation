@@ -12,3 +12,5 @@ The first step the calculation processes vertices in the polygon from top to bot
 The second step uses the partition lines determined in step 1 develop characteristics for the monotone subpolygons. From these lines the topmost points on each monotone subpolygon are obtained. The final step, triangulating each of the monotone subpolygons, follows exactly the algorithm presented in the reference text. 
 
 The application has a parameter to rotate the data. One should notice the different results as the data is rotated.
+
+MB: The polygon must close counterclockwise; holes need to close clockwise.
