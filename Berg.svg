@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="501" height="501" viewBox="-50 -50 650 650"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<title>Berg.svg</title>
+<text x="0" y="-5" fill="black" font-size="12px">Berg.svg</text>
+<text x="150" y="-5" fill="black" font-size="12px">1/15/2024 9:53:28 AM</text>
+<text x="300" y="-5" fill="black" font-size="12px">15 points</text>
+<polyline points= "0,0 0,600" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points= "0,0 600,0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points= "600,600 0,600" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points= "600,600 600,0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="510.234474004073,297.631883975481 251.036382424931,262.03905714576 415.213709316784,221.70228317156 510.234474004073,297.631883975481" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="510.234474004073,297.631883975481 415.213709316784,221.70228317156 496.373824397452,200.559063925363 510.234474004073,297.631883975481" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="453.926030653649,325.749657846327 251.036382424931,262.03905714576 510.234474004073,297.631883975481 453.926030653649,325.749657846327" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="306.764031958394,346.929746137401 251.036382424931,262.03905714576 453.926030653649,325.749657846327 306.764031958394,346.929746137401" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="174.552191310946,347.45813294057 306.764031958394,346.929746137401 251.036382424931,262.03905714576 174.552191310946,347.45813294057" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="174.552191310946,347.45813294057 306.764031958394,346.929746137401 297.798861690703,469.847912907295 174.552191310946,347.45813294057" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="425.148800315092,139.918764252066 198.023510385982,87.1115424484378 307.457039676947,61.8617371635743 425.148800315092,139.918764252066" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="208.524673648331,171.099491406235 425.148800315092,139.918764252066 198.023510385982,87.1115424484378 208.524673648331,171.099491406235" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="355.169767494393,173.877341452523 208.524673648331,171.099491406235 425.148800315092,139.918764252066 355.169767494393,173.877341452523" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="43.9541377628512,219.504436591269 355.169767494393,173.877341452523 208.524673648331,171.099491406235 43.9541377628512,219.504436591269" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="415.213709316784,221.70228317156 43.9541377628512,219.504436591269 355.169767494393,173.877341452523 415.213709316784,221.70228317156" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="415.213709316784,221.70228317156 43.9541377628512,219.504436591269 251.036382424931,262.03905714576 415.213709316784,221.70228317156" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="306.764031958394,346.929746137401 453.926030653649,325.749657846327 456.736667664845,407.317729538572 306.764031958394,346.929746137401" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="251.036382424931,262.03905714576 415.213709316784,221.70228317156"
+style="fill:white;stroke:red;stroke-width:2"/>
+<polyline points="306.764031958394,346.929746137401 453.926030653649,325.749657846327"
+style="fill:white;stroke:red;stroke-width:2"/>
+<circle cx="297.8" cy="469.8" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="306.8" cy="346.9" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="456.7" cy="407.3" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="453.9" cy="325.7" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="510.2" cy="297.6" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="496.4" cy="200.6" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="415.2" cy="221.7" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="355.2" cy="173.9" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="425.1" cy="139.9" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="307.5" cy="61.9" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="198.0" cy="87.1" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="208.5" cy="171.1" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="44.0" cy="219.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="251.0" cy="262.0" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="174.6" cy="347.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+</svg>
