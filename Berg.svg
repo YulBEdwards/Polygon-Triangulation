@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="501" height="501" viewBox="-50 -50 650 650"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<title>Berg.svg</title>
+<text x="0" y="-5" fill="black" font-size="12px">Berg.svg</text>
+<text x="150" y="-5" fill="black" font-size="12px">1/15/2024 10:06:17 AM</text>
+<text x="300" y="-5" fill="black" font-size="12px">15 points</text>
+<polyline points= "0,0 0,600" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points= "0,0 600,0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points= "600,600 0,600" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points= "600,600 600,0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="309.5,312.5 363.5,226.5 186,254.5 309.5,312.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="363.5,226.5 419,346.5 309.5,312.5 363.5,226.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="363.5,226.5 419,346.5 479,183.5 363.5,226.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="204.5,180 283,101.5 151.5,115 204.5,180" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="283,101.5 363.5,226.5 204.5,180 283,101.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="283,101.5 363.5,226.5 356,65 283,101.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="363.5,226.5 204.5,180 186,254.5 363.5,226.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="283,101.5 234,62 151.5,115 283,101.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="104,344.5 309.5,312.5 186,254.5 104,344.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="104,344.5 186,254.5 126,205 104,344.5" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="244.5,389 309.5,312.5 104,344.5 244.5,389" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="244.5,389 309.5,312.5 357,518.5 244.5,389" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="244.5,389 104,344.5 172.5,433.5 244.5,389" 
+style="fill:white;stroke:darkslateblue;stroke-width:2"/>
+<polyline points="151.5,115 283,101.5"
+style="fill:white;stroke:red;stroke-width:2"/>
+<polyline points="186,254.5 363.5,226.5"
+style="fill:white;stroke:red;stroke-width:2"/>
+<polyline points="186,254.5 309.5,312.5"
+style="fill:white;stroke:red;stroke-width:2"/>
+<polyline points="104,344.5 244.5,389"
+style="fill:white;stroke:red;stroke-width:2"/>
+<circle cx="479.0" cy="183.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="363.5" cy="226.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="356.0" cy="65.0" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="283.0" cy="101.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="234.0" cy="62.0" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="151.5" cy="115.0" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="204.5" cy="180.0" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="186.0" cy="254.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="126.0" cy="205.0" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="104.0" cy="344.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="172.5" cy="433.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="244.5" cy="389.0" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="357.0" cy="518.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="309.5" cy="312.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="419.0" cy="346.5" r="3" stroke="black" stroke-width="1" fill="black"/>
+</svg>
