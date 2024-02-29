@@ -13,4 +13,6 @@ The second step uses the partition lines determined in step 1 develop characteri
 
 The application has a parameter to rotate the data. One should notice the different results as the data is rotated.
 
+An option is provided to generate the motorcycle graph of the polygon. The red circles that appear on the graph are the so-called "B" points. This point is at the intersection of a vertex bisector and the bisector of an extended edge of the bisector and the target side of the vertex.
+
 NB: The polygon must close counterclockwise; holes need to close clockwise.
